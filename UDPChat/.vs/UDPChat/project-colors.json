@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f9d758e-3ba1-4b11-9793-b93380eb52d3": {
+      "ProjectGuid": "9f9d758e-3ba1-4b11-9793-b93380eb52d3",
+      "DisplayName": "UDPChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

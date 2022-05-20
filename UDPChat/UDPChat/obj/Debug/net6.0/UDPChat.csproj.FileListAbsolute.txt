@@ -1,0 +1,15 @@
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.exe
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.deps.json
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.runtimeconfig.json
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.dll
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\ref\UDPChat.dll
+C:\Users\Idea\source\repos\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.pdb
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.csproj.AssemblyReference.cache
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.AssemblyInfoInputs.cache
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.AssemblyInfo.cs
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.dll
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\ref\UDPChat.dll
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.pdb
+C:\Users\Idea\source\repos\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QyTy+R8rEcMQZruZv/oSOAnjcQFt+yji6Qj60JqZ8h/W50dvIDql2+KCzoVNa9Cv6je7mcoLITBfwFxX91jXDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Idea\\source\\repos\\HTTPClient\\HTTPClient\\HTTPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Idea\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "83cN4i9N73WFjsKGyqtrx5Oc7NeWPWLSSAieuKmd0YbmwxXvq2NuFr+znAAUNkcQbp+5snj18xoNhLhztZ/Vwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Idea\\source\\repos\\DNS\\DNS\\DNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Idea\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
+    "C:\\Users\\Idea\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idea\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idea\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Idea\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPChat", "UDPChat\UDPChat.csproj", "{9F9D758E-3BA1-4B11-9793-B93380EB52D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9D758E-3BA1-4B11-9793-B93380EB52D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9D758E-3BA1-4B11-9793-B93380EB52D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9D758E-3BA1-4B11-9793-B93380EB52D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9D758E-3BA1-4B11-9793-B93380EB52D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692FAE9E-671B-4479-8B7A-94A086755B0F}
+	EndGlobalSection
+EndGlobal

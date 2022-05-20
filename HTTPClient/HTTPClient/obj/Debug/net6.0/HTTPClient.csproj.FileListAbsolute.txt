@@ -1,0 +1,17 @@
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\HTTPClient.exe
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\HTTPClient.deps.json
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\HTTPClient.runtimeconfig.json
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\HTTPClient.dll
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\ref\HTTPClient.dll
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\HTTPClient.pdb
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.csproj.AssemblyReference.cache
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.AssemblyInfoInputs.cache
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.AssemblyInfo.cs
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.csproj.CopyComplete
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.dll
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\ref\HTTPClient.dll
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.pdb
+C:\Users\Idea\source\repos\HTTPClient\HTTPClient\obj\Debug\net6.0\HTTPClient.genruntimeconfig.cache
